@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Tandilia"
+    }
+  },
+  "defaultProject": "Tandilia",
+  "cli": {
+    "analytics": "0d63a597-89dc-49ef-8d95-587e5d9794e6"
+  }
 }
